@@ -8,5 +8,5 @@ function addtheitem(){
     li_item.textContent = User_Input.value;
     Whole_List.appendChild(li_item);
 
-
+        
 }
